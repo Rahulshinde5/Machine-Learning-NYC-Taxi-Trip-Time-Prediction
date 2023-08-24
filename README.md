@@ -36,7 +36,7 @@ This project aims to predict the trip time for taxi rides in New York City using
 - Inspiration from similar projects and online tutorials.
 
 ## Contact Information
-For any questions or feedback, feel free to contact me at [your_email@example.com](mailto:rahulshinde8605746446@gmail.com).
+For any questions or feedback, feel free to contact me at [Mail](mailto:rahulshinde8605746446@gmail.com). and [Linkedin](https://www.linkedin.com/in/rahul-shinde5/).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
@@ -47,3 +47,7 @@ This project is completed and serves as a demonstration of data analysis and mac
 ## Future Work
 - Experiment with advanced regression techniques.
 - Incorporate additional external datasets for enhanced predictions.
+
+- ![image](https://github.com/Rahulshinde5/Machine-Learning-NYC-Taxi-Trip-Time-Prediction/assets/125460745/972c681c-ed5e-4fc8-b81c-f026014b9edf)
+- [Image Source](https://hackmd.io/@cN0wHbxqQ52iMSByxQI6CQ/r1cUD4N4z?type=view)
+
