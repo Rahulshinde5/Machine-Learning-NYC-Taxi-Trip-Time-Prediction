@@ -24,7 +24,7 @@ This project aims to predict the trip time for taxi rides in New York City using
 - Visualized patterns, distributions, and correlations among variables.
 - Achieved high model performance with regression models.
 
-- ## Presentation
+## Presentation
 - You can watch the presentation for this project [here](https://drive.google.com/file/d/12GPv6xz-urP9RQ86r-Mc0MWZAc9kE2jW/view?usp=sharing).
 
 ## Technologies Used
